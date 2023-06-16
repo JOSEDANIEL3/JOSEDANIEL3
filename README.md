@@ -1,16 +1,13 @@
-### Hi there 👋
+### Boas vindas ao meu perfil 💙
+ 
+O meu nome e José Daniel 
 
-<!--
-**JOSEDANIEL3/JOSEDANIEL3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Estou estudando no alura
+- EStou me desenvolvendo na linguagem javaScript
+- Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos 
 
-Here are some ideas to get you started:
+###   Voçê pode entrar em contato comigo 📧
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Jose.Daniel.Pinheiro@escola.pr.gov.br
+
+![](https://media.tenor.com/l9m2LEUSEAMAAAAC/goku.gif)
